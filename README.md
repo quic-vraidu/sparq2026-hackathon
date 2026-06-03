@@ -49,8 +49,10 @@ app/src/main/jniLibs/arm64-v8a/libQnnHtpV81Stub.so
    ```bash
    adb push <model_dir>/ /sdcard/Android/data/com.aster.ondevice/files/models/
    ```
-3. In the app → **Settings** → set **Genie Config Path** to the absolute path of `genie_config.json`
-4. Tap **Load Model**
+   Model Folder: \\chandrayaan\cameracustomerissues\venu\sparq26_hackathon_models
+   
+4. In the app → **Settings** → set **Genie Config Path** to the absolute path of `genie_config.json`
+5. Tap **Load Model**
 
 ### QAIC Cloud (gpt-oss-20b) — Validation / Fallback
 1. In the app → **Settings** → select backend **QAIC Cloud**
@@ -67,7 +69,8 @@ app/src/main/jniLibs/arm64-v8a/libQnnHtpV81Stub.so
 ### 1. Clone and open
 ```bash
 git clone <repo-url>
-cd aster-ondevice
+cd sparq2026-hackathon
+
 ```
 Open in **Android Studio Meerkat | 2024.3.1**.
 
