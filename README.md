@@ -1,4 +1,4 @@
-# ASTER — Autonomous on-device AI Agent for Android
+# Autonomous on-device AI Agent for Android
 
 An autonomous AI agent that runs **Qwen 3 4B / Llama 3 3B** on the Qualcomm Hexagon HTP NPU via the **Genie SDK** to execute multi-step phone tasks — SMS, calls, screen control, files, camera, and more — from a single natural language command, with no cloud required.
 
