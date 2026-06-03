@@ -49,7 +49,7 @@ app/src/main/jniLibs/arm64-v8a/libQnnHtpV81Stub.so
    ```bash
    adb push <model_dir>/ /sdcard/Android/data/com.aster.ondevice/files/models/
    ```
-   Model Folder: \\chandrayaan\cameracustomerissues\venu\sparq26_hackathon_models
+   Model Folder: \/\chandrayaan\cameracustomerissues\venu\sparq26_hackathon_models
    
 4. In the app → **Settings** → set **Genie Config Path** to the absolute path of `genie_config.json`
 5. Tap **Load Model**
