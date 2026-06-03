@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aster AI</string>
+    <string name="accessibility_service_label">Aster AI Screen Control</string>
+    <string name="accessibility_service_description">Allows Aster AI to read the screen and perform gestures for phone automation</string>
+    <string name="notification_listener_label">Aster AI Notifications</string>
+</resources>

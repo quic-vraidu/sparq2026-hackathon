@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.AsterOnDevice" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
